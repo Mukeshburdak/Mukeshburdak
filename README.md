@@ -80,7 +80,13 @@ B.Tech Computer Science Engineering Student | Python • Machine Learning • Ne
 👉 *More exciting projects coming soon...*
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mukeshburdak/Mukeshburdak/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
 # 🔥 GitHub Streak
 
 <p align="center">
